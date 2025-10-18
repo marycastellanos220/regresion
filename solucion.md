@@ -1,6 +1,3 @@
-
-
-"""
 Pregunta: ¿Qué tipo de problemas se pueden resolver con regresión lineal?
 
 Respuesta: La regresión lineal se utiliza para problemas de predicción donde queremos predecir
